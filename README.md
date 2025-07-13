@@ -46,5 +46,5 @@ NovaTools，AI新工具推荐与发现平台，精选全球超10000+款人工智
 - [常见问题](https://www.novatools.cn/faq)
 
 ## 资源与学习
-- [AI新工具推荐与发现平台: NovaTools](https://origin.novatools.cn/)
-- [最全面的AI 工具导航平台| 发现、评测与分享AI 工具](https://origin.novatools.cn/about)
+- [AI新工具推荐与发现平台: NovaTools](https://www.novatools.cn/)
+- [最全面的AI 工具导航平台| 发现、评测与分享AI 工具](https://www.novatools.cn/about)
